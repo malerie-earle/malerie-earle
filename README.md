@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malerie-earle&label=Profile%20views&color=0e75b6&style=flat" alt="malerie-earle" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/malerie-earle/Portfolio, https://malerie-portfolio.netlify.app/)
+- 🔭 I’m currently working on my portfolio!
 
 - 🌱 I’m currently learning **Java, PostgreSQL, MongoDB, Full Stack JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/malerie-earle](https://github.com/malerie-earle)
+- 👨‍💻 All of my projects are available below!
 
 - 💬 Ask me about **my future ambitions!**
 
